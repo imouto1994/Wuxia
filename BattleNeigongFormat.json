@@ -1,0 +1,1316 @@
+[
+  {
+    "m_iNeigongID": 60001,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage22",
+    "m_strSelectImage": "NeigongImage02",
+    "m_strNeigongName": "Tiêu Dao Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60002,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage23",
+    "m_strSelectImage": "NeigongImage03",
+    "m_strNeigongName": "Nhật Nguyệt Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60003,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage24",
+    "m_strSelectImage": "NeigongImage04",
+    "m_strNeigongName": "Đông Phương Bảo Điển",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60004,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage25",
+    "m_strSelectImage": "NeigongImage05",
+    "m_strNeigongName": "Tàn Hoa Bảo Giám",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60005,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage26",
+    "m_strSelectImage": "NeigongImage06",
+    "m_strNeigongName": "Thiên Long Bát Bộ Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60006,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage27",
+    "m_strSelectImage": "NeigongImage07",
+    "m_strNeigongName": "Kim Nhạn Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60007,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage28",
+    "m_strSelectImage": "NeigongImage08",
+    "m_strNeigongName": "Hổ Khiếu Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60008,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage29",
+    "m_strSelectImage": "NeigongImage09",
+    "m_strNeigongName": "Ngũ Độc Xích Diễm Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60009,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage30",
+    "m_strSelectImage": "NeigongImage10",
+    "m_strNeigongName": "Thiện Tông Liên Hoa Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60010,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage31",
+    "m_strSelectImage": "NeigongImage11",
+    "m_strNeigongName": "Tiểu Vô Tương Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60011,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage32",
+    "m_strSelectImage": "NeigongImage12",
+    "m_strNeigongName": "Bắc Minh Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60012,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage33",
+    "m_strSelectImage": "NeigongImage13",
+    "m_strNeigongName": "Tẩy Tủy Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60013,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage34",
+    "m_strSelectImage": "NeigongImage14",
+    "m_strNeigongName": "Lăng Ba Vi Bộ",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 60014,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "NeigongImage35",
+    "m_strSelectImage": "NeigongImage15",
+    "m_strNeigongName": "Cửu Dương Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10001,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thú Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10002,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vạn Độc Tâm Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10003,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phi Yến Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10004,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vạn Hoa Ly Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10005,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Quyền Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10006,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tâm Hợp Ý Khí Lưu ‧ Minh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10007,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phích Lịch Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10008,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bào Đinh Giải Ngưu Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10009,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Kiếm Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10010,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tuyệt Đao Thế",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10011,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hiệp Ảnh Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10012,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Sơn Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10013,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Cương Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10014,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bát Quái Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10015,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thần Nông Lưu Ly Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10016,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Lục Phiến Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10017,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phi Hồ Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10018,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tam Khổ Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10019,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Đao Kiếm Quy Chân Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10020,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thượng Thánh Vô Tuyệt Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10021,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiểu Lâm Cửu Dương Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10022,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Kim Phong Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10023,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hồn Nguyên Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10024,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vũ Đương Kiền Khôn Công ‧ Thiên",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10025,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vũ Đương Kiền Khôn Công ‧ Địa",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10026,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thần Kiếm Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10027,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phách Tần Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10028,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Duy Ngã Độc Tôn Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10029,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tu La Phách Phượng Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10030,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Băng Hỏa Huyền Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10031,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Kim Dực Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10032,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vạn Xà Đại Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10033,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thanh Tâm Phổ Tán Chú",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10034,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tiếu Ngạo Hồng Trần Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10035,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vô Danh Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10036,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Cương Vô Cực Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10037,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hành Thiên Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10038,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Kiếm Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10039,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tuyệt Đao Thế",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10040,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bát Quái Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10041,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tam Khổ Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10042,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thái Cực Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10043,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hàng Long Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10044,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Liên Hoa Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10045,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dịch Cân Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10046,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Kim Chung Tráo",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10047,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bắc Minh Vô Tương Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10048,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hóa Công Đại Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10049,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Âm Minh Chi Tức",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10050,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bạch Câu Quá Khích Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10051,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thanh Long Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10052,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phật Sơn Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10053,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cuồng Lôi Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10054,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tật Phong Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10055,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Độc Long Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10056,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cửu U Na Di Đại Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10057,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vạn Kiếm Quy Tông",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10058,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vĩnh Tự Bát Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10059,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bát Mặc Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10060,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tàn Hoa Bảo Giám",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10061,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Sơn Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10062,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hàng Ma Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10063,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thôn Thổ Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10064,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Mính Đính Thể",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10065,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cửu Cửu Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10066,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Lục Hợp Đồng Tử Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10067,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Long Tượng Bàn Nhược Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10068,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tiêu Dao Tâm Pháp-Bằng Phi Thức",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10069,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tiêu Dao Tâm Pháp-Nhạn Hành Thức",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10070,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phích Lịch Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10071,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Long Hổ Bàn Nhược Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10072,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vong Ưu Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10073,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tú Xuân Đao Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10074,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hắc Phong Trận Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10075,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thư Hùng Long Hổ Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10076,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tử Hà Đại Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10077,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thập Bát Đồng Nhân Đao Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10078,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thập Bát Đồng Nhân Côn Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10079,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thập Bát Đồng Nhân Quyền Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10080,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Liên Hoa Lạc Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10081,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hồng Liên Xử Nữ Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10082,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Kiếm Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10083,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tuyệt Đao Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10084,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Vũ Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10085,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Đường Môn Phiêu Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10086,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bát Quái Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10087,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thất Kiếm Đại Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10088,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Huyết Sa Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10089,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bát Bộ Long Thần Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10090,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Giáp Hạ Nhẫn Pháp Thiếp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10091,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dục Huyết Phượng Hoàng Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10092,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tu La Nộ Sát Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10093,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bất Lão Trường Xuân Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10094,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phạm Thiên Tạo Hóa Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10095,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thâu Học Đích Dịch Cân Kinh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10096,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Địa Sát Vô Cực Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10097,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Úc Độc Triền Thân",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10098,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hổ Báo Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10099,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Ý Nhẫn Pháp Thiếp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10100,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thị Tỉnh Sinh Tồn Pháp Tắc",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10101,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Kim Sí Điểu",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10102,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cô Tinh Mệnh Cách",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10103,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thiên Tuyết Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10104,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Loạn Tình Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10105,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tứ Kiếp Tâm Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10106,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Vô Tương Hỗn Độn Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10107,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tàn Dương Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10108,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cầu Bại Tâm Quyết",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10109,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phích Lịch Tâm Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10110,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tuyệt Sát Lệnh",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10111,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Kim Long Thương Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10112,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Phục Hổ Đao Pháp",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10113,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thần Hỏa Pháo Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10114,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Uy Chấn Bát Phương",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10115,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cửu Dương Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10116,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Cửu Long Hộ Thể",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10117,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bách Luyện Độc Thân",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10118,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thái Cực Kiếm Trận",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10119,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Giang Nam Vương Khí",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10120,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dũng Sĩ Chi Tâm",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10121,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thất Thải Cổ Vương",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10122,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dưỡng Hạo Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10123,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tử Hà Thần Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10124,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Hỗn Nguyên Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10125,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Bế Huyệt Công",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10126,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Thánh Đường Chi Lực",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10127,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Kê Sư Phó",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10128,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Lão Nhị",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10129,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Bạch Lang",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10130,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Tiểu Hắc Lang",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10131,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Dã Thú Bản Năng: Tiểu Hầu Tử",
+    "m_iExp": 1
+  },
+  {
+    "m_iNeigongID": 10132,
+    "m_iLV": 10,
+    "m_iAccumulationExp": 100000,
+    "m_strStatusImage": "0",
+    "m_strSelectImage": "0",
+    "m_strNeigongName": "Tiểu Vô Tướng Công",
+    "m_iExp": 1
+  }
+]
