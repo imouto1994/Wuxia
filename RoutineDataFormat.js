@@ -154,6 +154,7 @@ const FILTER_ARRAY = [
   10673,
   10670,
 ];
+const HIGHEST_ID = 70060;
 
 async function json(routineText) {
   const npcMap = await getNpcMap();
@@ -172,7 +173,7 @@ async function json(routineText) {
         }
 
         return {
-          m_iRoutineID: parseInt(infos[0], 10),
+          m_iRoutineID: parseInt(infos[0], 10) + HIGHEST_ID,
           m_strRoutineName: infos[1],
           m_iWearAmsType: parseInt(infos[3], 10),
           m_iAccumulationExp: 100000,
@@ -183,6 +184,33 @@ async function json(routineText) {
     null,
     2,
   );
+}
+
+async function text(routineText) {
+  const npcMap = await getNpcMap();
+  const battleAbilityMap = await getBattleAbilityMap();
+  const battleConditionMap = await getBattleConditionMap();
+  const originalLines = routineText.split("\n");
+  const lines = getSortedLines(routineText, npcMap);
+  const extraLines = lines
+    .filter(line => {
+      const infos = line.split("\t");
+      return (
+        FILTER_ARRAY.length === 0 ||
+        FILTER_ARRAY.includes(parseInt(infos[0], 10))
+      );
+    })
+    .map(line => {
+      const infos = line.split("\t");
+      infos[0] = parseInt(infos[0], 10) + HIGHEST_ID;
+      if (infos[3] === "1" || infos[3] === "2") {
+        infos[2] = "Player_un";
+      } else if (infos[3] === "3") {
+        infos[2] = "Player_leg";
+      }
+      return infos.join("\t");
+    });
+  return originalLines.concat(extraLines).join("\n");
 }
 
 async function getNpcMap() {
@@ -245,6 +273,8 @@ async function main() {
   await fs.writeFile("./RoutineDataFormat.md", formattedRoutineText, "utf8");
   const jsonRoutineText = await json(routineText);
   await fs.writeFile("./RoutineDataFormat.json", jsonRoutineText, "utf8");
+  const textRoutineText = await text(routineText);
+  await fs.writeFile("./RoutineDataFormat.txt", textRoutineText, "utf8");
 }
 
 main();

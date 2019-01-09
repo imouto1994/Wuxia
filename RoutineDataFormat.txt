@@ -1,0 +1,388 @@
+#iRoutineID	sRoutineName	sModelName	iWearAmsType	iLinkSkill1	iLinkSkill2	iLeamLevel1	iLinkSkill3	iLeamLevel2	sExp	sIcon	iRoutineType	sSpecialAdd	 
+10001	Đại thiên tự tại chưởng	TL_ysky	1	100001001	100001002	0	100001003	0	0	RoutinImage01	3	0,0	0
+10002	Đại thiên tự tại chưởng	TL_sky	1	100002001	100002002	0	100002003	0	0	RoutinImage01	3	0,0	0
+10003	Duy ngã độc tôn công	TL_sky	1	100001004	100001005	0	0	0	0	RoutinImage01	3	0,0	0
+10006	Phách tần cửu long phá	TL_ydragon	1	100003001	100003002	0	100003003	0	0	RoutinImage01	1	0,0	0
+10007	Phách tần cửu long phá	TL_dragon	1	100004001	100004002	0	100004003	0	0	RoutinImage01	1	0,0	0
+10011	Tu la vô tình đao	TL_xiuluo	5	100005001	100005002	0	100005003	0	0	RoutinImage05	1	0,0	0
+10016	Phi bộc liên thiên quyết	TL_naluo	9	100007001	100007002	0	100007003	0	0	RoutinImage10	5	0,0	0
+10021	Thất huyền kiếm ý	TL_bitch	9	100008001	100008002	0	100008003	0	0	RoutinImage10	5	0,0	0
+10026	Kim dực trảm	TL_eagle	2	100009001	100009002	0	100009003	0	0	RoutinImage02	1	0,0	0
+10031	Tồi hồn bách độc chưởng	TL_mohu	1	100010001	100010002	0	100010003	0	0	RoutinImage01	5	0,0	0
+10036	Băng hỏa liên chưởng	TL_ghost	1	100011001	100011002	0	100011003	0	0	RoutinImage02	3	0,0	0
+10041	Vô danh kiếm pháp	TL_eastxi	4	100012001	100012002	0	100012003	0	0	RoutinImage04	3	0,0	0
+10046	Thủy hử anh hùng chưởng	Xyg_Xuan	1	100015001	100015002	0	100015003	0	0	RoutinImage01	4	0,0	0
+10051	Đao kiếm thập sát	Xyg_Gingi	4	100016001	100016002	0	100016003	0	0	RoutinImage05	3	0,0	0
+10052	Đao kiếm thập sát	Xyg_Gingi	4	100016004	100016005	0	0	0	0	RoutinImage05	3	0,0	0
+10053	Đao kiếm thập sát	Xyg_Gingi	4	100016006	0	0	0	0	0	RoutinImage05	3	0,0	0
+10056	Thiên sơn lục dương chưởng	Xyg_master	1	100017001	100017002	0	100017003	0	0	RoutinImage01	3	0,0	0
+10061	Huyền minh thất sát	Xyg_Xuanmin	2	100018001	100018002	0	100018003	0	0	RoutinImage02	5	0,0	0
+10066	Hồ gia đao pháp	Xyg_Hu	5	100019001	100019002	0	100019003	0	0	RoutinImage05	2	0,0	0
+10071	Bạch hồng chưởng	Xyg_Xiao	1	100020001	100020002	0	0	0	0	RoutinImage01	5	0,0	0
+10076	Bào đinh giải ngưu đao	Xyg_wanglong	5	100021001	100021002	0	100021003	0	0	RoutinImage05	3	3,8	100
+10081	Chấn thiên chùy	Etc_54lei	6	100023001	100023002	0	0	0	0	RoutinImage13	3	0,0	0
+10086	Vân trường đao	Etc_54jie	5	100022001	100022002	0	0	0	0	RoutinImage05	3	0,0	0
+10091	Kinh phong chỉ	Etc_54zhao	2	100024001	100024002	0	0	0	0	RoutinImage02	3	0,0	0
+10096	Phi hồng quyền	Etc_54sai	1	100025001	100025002	0	0	0	0	RoutinImage01	3	0,0	0
+10097	Vô ảnh cước	Etc_54sai	3	100025003	0	0	0	0	0	RoutinImage03	3	0,0	0
+10098	Vô ảnh cước	Etc_54sai	3	100025004	0	0	0	0	0	RoutinImage03	3	0,0	0
+10099	Vô ảnh cước	Etc_54sai	3	100025005	0	0	0	0	0	RoutinImage03	3	0,0	0
+10101	Túy quyền	Wyg_Wine	1	100026001	100026002	0	100026003	0	0	RoutinImage01	4	0,0	0
+10102	Mãn thiên lưu tinh	Wyg_Chess	8	100027001	100027002	0	100027003	0	0	RoutinImage09	4	0,0	0
+10103	Kim châm tiệt mạch	Wyg_Doctor	2	100028001	100028002	0	100028003	0	0	RoutinImage02	3	0,0	0
+10104	Dư âm nhiễu lương	Wyg_Music	9	100029001	100029002	0	100029003	0	0	RoutinImage10	3	0,0	0
+10105	Đào hoa phiến	Wyg_Book	7	100030001	100030002	0	0	0	0	RoutinImage907	4	0,0	0
+10106	Thiên long bát bộ công	Wyg_Paint	1	100031001	100031002	0	0	0	0	RoutinImage01	3	0,0	0
+10107	Hắc miêu cổ thuật	Wyg_Poison	8	100033001	100033002	0	0	0	0	RoutinImage09	3	0,0	0
+10108	Bách hoa thác quyền	Wyg_Flower2	1	100032001	100032002	0	100032003	0	0	RoutinImage01	3	0,0	0
+10109	Vạn kiếm quy tông	SwordHoly	4	100034001	100034002	0	100034003	0	0	RoutinImage04	3	0,0	0
+10110	Thanh liên ấn pháp	Wyg_Sheng	1	100035003	100035001	0	100035002	0	0	RoutinImage01	4	4,3	100
+10112	Giang hồ đao pháp	Lier_tiger	5	100112001	0	0	0	0	0	RoutinImage05	2	0,0	0
+10113	Giang hồ đao pháp	Lier_tiger	5	100112002	0	0	0	0	0	RoutinImage05	2	0,0	0
+10116	Giang hồ chuy pháp	Lier_dragon	6	100113002	0	0	0	0	0	RoutinImage13	2	0,0	0
+10117	Giang hồ chuy pháp	Lier_dragon	6	100113001	0	0	0	0	0	RoutinImage13	2	0,0	0
+10118	Cuồng phong khoái kiếm	Sword_Feng	4	100072001	100072002	0	100072003	0	0	RoutinImage04	3	0,0	0
+10119	Cuồng phong khoái kiếm	Sword_Feng	4	100072004	100072005	0	0	0	0	RoutinImage04	3	0,0	0
+10120	Cuồng phong khoái kiếm	Sword_Feng	4	100072004	0	0	0	0	0	RoutinImage04	3	0,0	0
+10127	Thủy hử anh hùng chưởng	Xyg_xuan	1	100015001	100015002	0	100015003	0	0	RoutinImage01	5	0,0	0
+10128	Thủy hử anh hùng chưởng	Xyg_xuan	1	100015004	100015005	0	0	0	0	RoutinImage01	5	0,0	0
+10129	Thủy hử anh hùng chưởng	Xyg_xuan	1	100015006	0	0	0	0	0	RoutinImage01	5	0,0	0
+10137	Lực phách hoa sơn	Robber_Heifon	5	100111001	0	0	0	0	0	RoutinImage05	2	0,0	0
+10142	Cầm sát thuật	Robber_big	2	100107001	100107002	0	0	0	0	RoutinImage02	2	0,0	0
+10147	Cầm sát thuật	Robber_small	1	100108001	100108002	0	0	0	0	RoutinImage01	2	0,0	0
+10157	Bàn nhược quyền	SL_Wujie	1	100048001	100048002	0	100048003	0	0	RoutinImage01	2	0,0	0
+10161	Thiên môn thập tam kiếm	Sword_master	4	100071001	100071002	0	100071003	0	0	RoutinImage04	3	0,0	0
+10166	Ngũ nhạc kiếm ý	Weapon_nan	4	100094001	100094002	0	100094003	0	0	RoutinImage04	3	0,0	0
+10167	Ngũ nhạc kiếm ý	Weapon_nan	4	100094004	100094005	0	0	0	0	RoutinImage04	3	0,0	0
+10168	Ngũ nhạc kiếm ý	Weapon_nan	4	100094006	0	0	0	0	0	RoutinImage04	3	0,0	0
+10171	Cửu chuyển tuyệt mệnh đao	Blade_master	5	100084001	100084002	0	100084003	0	0	RoutinImage05	1	0,0	0
+10176	Âm dương cực đao	Blade_Fei	5	100085001	100085002	0	100085003	0	0	RoutinImage05	3	0,0	0
+10177	Âm dương cực đao	Blade_Fei	5	100085004	100085005	0	0	0	0	RoutinImage05	3	0,0	0
+10178	Âm dương cực đao	Blade_Fei	5	100085006	0	0	0	0	0	RoutinImage05	3	0,0	0
+10180	Thôn thực thiên địa	TL_eat	11	100126004	100126005	0	0	0	0	RoutinImage11	2	0,0	0
+10181	Thôn thực thiên địa	TL_eat	11	100126001	100126002	0	0	0	0	RoutinImage11	2	0,0	0
+10182	Thôn thực thiên địa	TL_eat	11	100126003	0	0	0	0	0	RoutinImage11	2	0,0	0
+10186	Bào đinh giải ngưu đao	Xyg_wanglong	5	100021001	100021002	0	100021003	0	0	RoutinImage05	3	3,8	100
+10191	Phách vương kiếm pháp	Etc_fu	4	100092001	100092002	0	100092003	0	0	RoutinImage04	3	0,0	0
+10192	Tạp quái kiếm pháp	Etc_fu	4	100092004	100092005	0	0	0	0	RoutinImage04	3	0,0	0
+10193	Tạp quái kiếm pháp	Etc_fu	4	100092006	0	0	0	0	0	RoutinImage04	3	0,0	0
+10194	Phách vương kiếm pháp	Etc_fu	4	100092001	100092002	0	0	0	0	RoutinImage04	3	0,0	0
+10196	Phích lịch đao pháp	Pili_red2	5	100057001	100057002	0	100057003	0	0	RoutinImage05	2	2,7	60
+10197	Phích lịch đao pháp	Pili_red2	5	100057004	100057005	0	0	0	0	RoutinImage05	2	2,7	60
+10198	Phích lịch đao pháp	Pili_red2	5	100057006	0	0	0	0	0	RoutinImage05	2	2,7	60
+10201	Hàng long thập bát chưởng	Gb_Xiaoyao	1	100098001	100098002	0	100098003	0	0	RoutinImage01	1	0,0	0
+10202	Hàng long thập bát chưởng	Gb_Xiaoyao	1	100098004	100098005	0	0	0	0	RoutinImage01	1	0,0	0
+10203	Hàng long thập bát chưởng	Gb_Xiaoyao	1	100098006	0	0	0	0	0	RoutinImage01	1	0,0	0
+10206	Trường hồng đao pháp	Biao_Wei	5	100078001	100078002	0	100078003	0	0	RoutinImage05	2	0,0	0
+10207	Trường hồng đao pháp	Biao_Wei	5	100078004	100078005	0	0	0	0	RoutinImage05	2	0,0	0
+10211	Thiên cương quyền	Jiang_Yu	1	100075001	100075002	0	100075003	0	0	RoutinImage01	2	0,0	0
+10212	Thiên cương quyền	Jiang_Yu	1	100075004	100075005	0	0	0	0	RoutinImage01	2	0,0	0
+10213	Thiên cương quyền	Jiang_Yu	1	100075006	0	0	0	0	0	RoutinImage01	2	0,0	0
+10216	Bảo tương như lai côn	SL_Xue	6	100043001	100043002	0	100043003	0	0	RoutinImage06	2	0,0	0
+10217	Bảo tương như lai côn	SL_Xue	6	100043004	100043005	0	0	0	0	RoutinImage06	2	0,0	0
+10218	Bảo tương như lai côn	SL_Xue	6	100043006	0	0	0	0	0	RoutinImage06	2	0,0	0
+10221	Thiên vũ kỳ kiếm	TS_Juan	4	100120001	100120002	0	0	0	0	RoutinImage04	4	0,0	0
+10225	Túy thôn sơn hà	TL_drink	1	100127004	100127005	0	0	0	0	RoutinImage01	2	0,0	0
+10226	Túy thôn sơn hà	TL_drink	1	100127001	100127002	0	0	0	0	RoutinImage01	2	0,0	0
+10227	Túy thôn sơn hà	TL_drink	1	100127003	0	0	0	0	0	RoutinImage01	2	0,0	0
+10230	Ưng chỉ công	TL_sex	2	100128004	100128005	0	0	0	0	RoutinImage02	4	0,0	0
+10231	Ưng chỉ công	TL_sex	2	100128001	100128002	0	0	0	0	RoutinImage02	4	0,0	0
+10232	Ưng chỉ công	TL_sex	2	100128003	0	0	0	0	0	RoutinImage02	4	0,0	0
+10235	Quán đầu quyền	TL_gamble	8	100129004	100129005	0	0	0	0	RoutinImage09	3	0,0	0
+10236	Quán đầu quyền	TL_gamble	8	100129001	100129002	0	0	0	0	RoutinImage09	3	0,0	0
+10237	Quán đầu quyền	TL_gamble	8	100129003	0	0	0	0	0	RoutinImage09	3	0,0	0
+10241	Thiên quỷ trảo	TL_pupil	2	100130001	0	0	0	0	0	RoutinImage02	4	0,0	0
+10242	Thiên quỷ trảo	TL_pupil	2	100130002	0	0	0	0	0	RoutinImage02	4	0,0	0
+10243	Thiên quỷ trảo	TL_pupilxl	2	100130003	100130004	0	0	0	0	RoutinImage02	4	0,0	0
+10246	Băng hỏa liên chưởng	TL_ghost	1	100011001	100011002	0	100011003	0	0	RoutinImage02	5	0,0	0
+10251	Bát quái đao pháp	BG_sheng02	5	100089001	100089002	0	100089003	0	0	RoutinImage05	3	0,0	0
+10252	Bát quái đao pháp	BG_sheng02	5	100089004	100089005	0	0	0	0	RoutinImage05	3	0,0	0
+10256	Thiên thu đao pháp	BG_master	5	100088001	100088002	0	100088003	0	0	RoutinImage05	3	0,0	0
+10261	Bát quái đao pháp	BG_pupil	5	100090001	100090002	0	0	0	0	RoutinImage05	3	0,0	0
+10262	Bát quái đao pháp	BG_pupil	5	100090003	0	0	0	0	0	RoutinImage05	3	0,0	0
+10266	Thái cực quyền	WD_Gushi	1	100036001	100036002	0	100036003	0	0	RoutinImage01	3	0,0	0
+10267	Thái cực quyền	WD_Gushi	1	100036004	100036005	0	0	0	0	RoutinImage01	3	0,0	0
+10268	Thái cực quyền	WD_Gushi	1	100036006	0	0	0	0	0	RoutinImage01	3	0,0	0
+10271	Thái cực kiếm pháp	WD_fang	4	100037001	100037002	0	100037003	0	0	RoutinImage04	3	0,0	0
+10272	Thái cực kiếm pháp	WD_fang	4	100037004	100037005	0	0	0	0	RoutinImage04	3	0,0	0
+10273	Thái cực kiếm pháp	WD_fang	4	100037006	0	0	0	0	0	RoutinImage04	3	0,0	0
+10276	Thái cực kiếm pháp	WD_master	4	100038001	100038002	0	100038003	0	0	RoutinImage04	3	0,0	0
+10281	Thái cực kiếm pháp	WD_guya	4	100040001	100040002	0	100040003	0	0	RoutinImage04	3	0,0	0
+10286	Thái cực kiếm pháp	WD_older	4	100041001	100041002	0	100041003	0	0	RoutinImage04	3	0,0	0
+10291	Vũ đương kiếm pháp	WD_pupil	4	100042001	100042002	0	0	0	0	RoutinImage04	3	0,0	0
+10292	Nhiễu chỉ nhu kiếm	WD_pupil	4	100042003	100042004	0	100042005	0	0	RoutinImage04	3	0,0	0
+10296	Diệu đế chỉ	SL_master01	2	100044001	100044002	0	100044003	0	0	RoutinImage02	1	0,0	0
+10301	Bảo tương như lai côn	SL_Wuse	6	100045001	100045002	0	100045003	0	0	RoutinImage06	1	0,0	0
+10306	Bảo tương như lai côn	SL_Wuhei	6	100046001	100046002	0	100046003	0	0	RoutinImage06	1	0,0	0
+10311	Đại lực kim cương chưởng	SL_Wucheng	1	100047001	100047002	0	100047003	0	0	RoutinImage01	1	0,0	0
+10316	Bàn nhược quyền	SL_Pupil	1	100049001	100049002	0	0	0	0	RoutinImage01	2	0,0	0
+10321	Phất trần côn	SL_Pupil02	6	100050001	100050002	0	0	0	0	RoutinImage06	2	0,0	0
+10326	Nhiên mộc đao	Golden18_blade	5	100051001	100051002	0	0	0	0	RoutinImage05	2	0,0	0
+10331	Bảo tương như lai côn	Golden18_staff	6	100052001	100052002	0	0	0	0	RoutinImage06	2	0,0	0
+10336	La hán quyền	Golden18_cuff	1	100053001	100053002	0	0	0	0	RoutinImage01	2	0,0	0
+10341	Tử mẫu thiên câu	XL_ren	11	100054001	100054002	0	100054003	0	0	RoutinImage07	4	4,7	40
+10344	Phiến thuật đại toàn	Lier_zhao	11	100055001	100055002	0	100055003	0	0	RoutinImage01	4	2,8	30
+10346	Thú nhật cung pháp	Hunter_ziwen	11	100056001	100056002	0	100056003	0	0	RoutinImage12	2	3,1	80
+10347	Ngân xà tiên pháp	Hunter_ziwen	10	100056004	100056005	0	100056006	0	0	RoutinImage08	4	3,1	80
+10348	Ngân xà tiên pháp	Hunter_ziwen	10	100056007	100056008	0	0	0	0	RoutinImage08	4	3,1	80
+10351	Độc long truy hồn tiên	DL_blue	10	100058001	100058002	0	100058003	0	0	RoutinImage08	4	4,2	60
+10356	Yến tử thứ	Etc_shiyan	7	100059001	100059002	0	100059003	0	0	RoutinImage07	4	3,6	100
+10357	Yến tử thứ	Etc_shiyan	7	100059004	100059005	0	0	0	0	RoutinImage07	4	3,6	100
+10360	Dã cầu quyền	Fist_chili	1	100060001	100060002	0	100060004	0	0	RoutinImage01	3	2,0	200
+10361	Dã cầu quyền	Fist_chili	1	100060001	100060002	0	0	0	0	RoutinImage01	3	2,0	200
+10362	Dã cầu quyền	Fist_chili	1	100060003	0	0	0	0	0	RoutinImage01	3	2,0	200
+10366	Tâm hợp ý khí lưu	killer_snow	5	100061001	100061002	0	100061003	0	0	RoutinImage05	4	4,6	30
+10367	Tâm hợp ý khí lưu	killer_snow	5	100061004	100061005	0	0	0	0	RoutinImage05	4	4,6	30
+10368	Tâm hợp ý khí lưu	killer_snow2	5	100062001	100062002	0	100062003	0	0	RoutinImage05	4	4,6	30
+10369	Tâm hợp ý khí lưu	killer_black	5	100063001	100063002	0	0	0	0	RoutinImage05	4	4,6	30
+10371	Lục phiến côn pháp	Guanfu_Gan	6	100065001	0	0	0	0	0	RoutinImage06	2	0,0	0
+10376	Thủy hử anh hùng côn	Guanfu_shiyi	6	100066001	0	0	0	0	0	RoutinImage06	2	0,0	0
+10381	Độc long truy hồn tiên	DL_yellow	8	100067001	100067002	0	100067003	0	0	RoutinImage08	4	0,0	0
+10382	Độc long truy hồn tiên	DL_yellow	8	100067004	100067005	0	100067006	0	0	RoutinImage08	4	0,0	0
+10386	Độc long truy hồn tiên	DL_pupil	8	100068001	100068002	0	0	0	0	RoutinImage08	4	0,0	0
+10386	Độc long truy hồn tiên	DL_pupil	8	100068001	100068002	0	0	0	0	RoutinImage08	4	0,0	0
+10387	Độc long truy hồn tiên	DL_pupil2	8	100069001	100069002	0	0	0	0	RoutinImage08	4	0,0	0
+10391	Phích lịch đao pháp	Pili_pupil	5	100070001	100070002	0	100070004	0	0	RoutinImage05	4	0,0	0
+10392	Phích lịch đao pháp	Pili_pupil	5	100070003	100070005	0	0	0	0	RoutinImage05	4	0,0	0
+10396	Thiên môn thập tam kiếm	Sword_master	4	100071001	100071002	0	100071003	0	0	RoutinImage04	1	0,0	0
+10401	Cuồng phong khoái kiếm	Sword_pupil	4	100073001	100073002	0	0	0	0	RoutinImage04	2	0,0	0
+10402	Cuồng phong khoái kiếm	Sword_pupil	4	100073003	0	0	0	0	0	RoutinImage04	2	0,0	0
+10406	Thiên cương quyền	Jiang_Tian	1	100074001	100074002	0	100074003	0	0	RoutinImage01	1	0,0	0
+10407	Thiên cương quyền	Jiang_Tian	1	100074004	100074005	0	100074006	0	0	RoutinImage01	1	0,0	0
+10411	Trường hồng đao pháp	Biao_master	5	100077001	100077002	0	100077003	0	0	RoutinImage05	3	0,0	0
+10416	Trường hồng đao pháp	Biao_pupil	5	100079001	100079002	0	0	0	0	RoutinImage05	3	0,0	0
+10417	Trường hồng đao pháp	Biao_pupil	5	100079003	0	0	0	0	0	RoutinImage05	3	0,0	0
+10421	Đường môn đại tán thủ	TM_master	8	100080001	100080002	0	100080003	0	0	RoutinImage09	5	0,0	0
+10426	Đường môn đại tán thủ	TM_Guannan	8	100081001	100081002	0	100081003	0	0	RoutinImage09	4	0,0	0
+10427	Đường môn đại tán thủ	TM_Guannan	8	100081004	100081005	0	0	0	0	RoutinImage09	4	0,0	0
+10428	Đường môn đại tán thủ	TM_pupil	8	100083001	0	0	0	0	0	RoutinImage09	3	0,0	0
+10429	Đường môn đại tán thủ	TM_pupil	8	100083002	0	0	0	0	0	RoutinImage09	3	0,0	0
+10431	Tiểu lý phi đao	TM_Chunhei	8	100082001	100082002	0	0	0	0	RoutinImage09	4	0,0	0
+10436	Âm dương cực đao	Blade_pupil	5	100086001	100086002	0	0	0	0	RoutinImage05	3	0,0	0
+10437	Âm dương cực đao	Blade_pupil	5	100086001	0	0	0	0	0	RoutinImage05	3	0,0	0
+10441	Thiên sơn huyễn ảnh kiếm	TS_Yang	4	100091001	100091002	0	100091003	0	0	RoutinImage04	4	0,0	0
+10446	Ngũ nhạc kiếm ý	Weapon_master	4	100093001	100093002	0	100093003	0	0	RoutinImage04	3	0,0	0
+10451	Trọng kiếm vô phong	Weapon_pupil	4	100095001	100095002	0	0	0	0	RoutinImage04	3	0,0	0
+10456	Dược vương sừ pháp	BC_Gong	6	100096001	100096002	0	100096003	0	0	RoutinImage06	4	0,0	0
+10457	Dược vương sừ pháp	BC_Gong	6	100096004	100096005	0	0	0	0	RoutinImage06	4	0,0	0
+10461	Dược vương sừ pháp	BC_pupil	6	100097001	100097002	0	0	0	0	RoutinImage06	4	0,0	0
+10462	Dược vương sừ pháp	BC_pupil	6	100097003	100097004	0	0	0	0	RoutinImage06	4	0,0	0
+10466	Hàng long thập bát chưởng	Gb_master	1	100099001	100099002	0	100099003	0	0	RoutinImage01	1	0,0	0
+10471	Đả cẩu côn pháp	Gb_Lihou	6	100100001	100100002	0	100100003	0	0	RoutinImage06	3	0,0	0
+10476	Đả cẩu côn pháp	Gb_older	6	100101001	100101002	0	100101003	0	0	RoutinImage06	3	0,0	0
+10481	Duyên nhai hành khất quyền	Gb_pupil01	1	100102001	100102002	0	0	0	0	RoutinImage01	2	0,0	0
+10482	Duyên nhai hành khất quyền	Gb_pupil01	1	100102003	0	0	0	0	0	RoutinImage01	2	0,0	0
+10486	Liên hoa thi xá côn	Gb_pupil02	6	100103001	100103002	0	0	0	0	RoutinImage06	2	0,0	0
+10491	Ách nan độc công	Killer_poison	1	100104001	100104002	0	0	0	0	RoutinImage01	5	0,0	0
+10496	Mê tình đại pháp	Killer_sex	1	100105001	100105002	0	0	0	0	RoutinImage11	4	0,0	0
+10501	Cầm sát thuật	Killer_crazy	1	100106001	100106002	0	0	0	0	RoutinImage01	2	0,0	0
+10506	Diêm vương lệnh	Robber_black	7	100109001	100109002	0	0	0	0	RoutinImage07	4	0,0	0
+10511	Tác mệnh liêm	Robber_white	7	100110001	100110002	0	0	0	0	RoutinImage07	4	0,0	0
+10516	Tàn hoa bảo giám	East_chen	2	100115001	100115002	0	100115003	0	0	RoutinImage02	5	0,0	0
+10521	Nha đột	East_killer	5	100116001	0	0	0	0	0	RoutinImage05	4	0,0	0
+10526	Triêu đình đao pháp	Guanfu_pupil	5	100117001	0	0	0	0	0	RoutinImage05	3	0,0	0
+10531	Thiên sơn huyễn ảnh kiếm	TS_master	4	100118001	100118002	0	100118003	0	0	RoutinImage04	5	0,0	0
+10536	Lưỡng nghi hồi phong quyền	TS_Yilan	1	100119001	100119002	0	0	0	0	RoutinImage01	5	0,0	0
+10541	Thiên vũ kỳ kiếm	TS_Juan	4	100120001	100120002	0	0	0	0	RoutinImage04	4	0,0	0
+10546	Thiên vũ kỳ kiếm	TS_pupil	4	100121001	0	0	0	0	0	RoutinImage04	4	0,0	0
+10547	Thiên vũ kỳ kiếm	TS_pulgirl	4	100120001	0	0	0	0	0	RoutinImage04	4	0,0	0
+10548	Như lai thần chưởng	TS_pupil	4	100121002	100121003	0	100121004	0	0	RoutinImage04	4	0,0	0
+10551	Quan thanh bách cảnh kiếm	CC_purple	4	100122001	100122002	0	100122003	0	0	RoutinImage04	3	0,0	0
+10556	Quan thanh bách cảnh kiếm	CC_green	4	100123001	100123002	0	100123003	0	0	RoutinImage04	3	0,0	0
+10561	Tùng phong kiếm pháp	CC_pupil	4	100124001	0	0	0	0	0	RoutinImage04	3	0,0	0
+10562	Ngọc nữ thập cửu kiếm	WS_Cao	4	100125001	100125002	0	0	0	0	RoutinImage04	3	0,0	0
+10563	Đoạt mệnh tam tiên kiếm	WS_master	4	100245003	100245001	0	100245002	0	0	RoutinImage04	3	0,0	0
+10564	Hoa sơn kiếm pháp	WS_pupil1	4	100246001	100246002	0	0	0	0	RoutinImage04	3	0,0	0
+10636	Ngọc tiêu kiếm pháp	TL_gongxiyao	9	100013001	100013002	0	100013003	0	0	RoutinImage07	5	0,0	0
+70000	Huy kiếm	Player_sw	4	100014000	0	0	0	0	1	RoutinImage04	3	0,0	0
+70001	Tiêu diêu quyền pháp	Player_un	1	100014001	100014002	8	0	0	1	RoutinImage101	4	1,2	50
+70002	Dã cầu quyền	Player_un	1	100014003	100014004	6	100014152	10	4	RoutinImage102	2	1,1	50
+70003	Thiên sơn lục dương chưởng	Player_un	1	100014007	100014008	7	100014009	10	2	RoutinImage103	1	1,5	50
+70004	Túy quyền	Player_un	1	100014010	100014011	7	100014012	10	3	RoutinImage104	3	4,6	50
+70005	Tồi hồn hủ tâm chưởng	Player_un	1	100014013	100014014	9	0	0	1	RoutinImage105	5	4,2	50
+70006	Bái nguyệt thất quyết	Player_un	1	100014015	100014016	6	100014017	9	3	RoutinImage106	5	1,5	50
+70007	Hàng long thập bát chưởng	Player_un	1	100014018	100014019	8	100014020	10	3	RoutinImage107	1	1,3	50
+70008	Như lai cửu ấn	Player_un	1	100014021	100014022	6	100014023	9	3	RoutinImage108	1	0,2	30
+70009	Nhất dương chỉ	Player_un	2	100014024	100014025	7	100014225	9	3	RoutinImage201	1	4,3	50
+70010	Cửu âm long trảo công	Player_un	2	100014026	100014027	5	100014028	8	2	RoutinImage202	5	4,2	50
+70011	Phi bộc liên hoàn chỉ	Player_un	2	100014029	100014030	5	100014031	8	2	RoutinImage203	5	1,0	50
+70012	Lục mạch thần kiếm	Player_un	2	100014032	100014033	10	0	0	3	RoutinImage401	3	1,5	50
+70013	Tình ý thất kiếm	Player_sw	4	100014037	100014035	5	100014036	8	2	RoutinImage402	4	4,7	50
+70014	Tiêu diêu kiếm pháp	Player_sw	4	100014034	100014038	6	0	0	1	RoutinImage403	4	1,4	30
+70015	Chư tử kiếm pháp	Player_sw	4	100014039	100014040	7	100014041	9	1	RoutinImage404	3	4,5	35
+70016	Độc cô cửu kiếm	Player_sw	4	100014042	100014043	6	100014044	10	4	RoutinImage405	3	0,4	40
+70017	Thái vương tứ thần kiếm	Player_sw	4	100014045	100014046	6	100014047	9	2	RoutinImage406	3	2,3	20
+70018	Bào đinh giải ngưu đao	Player_bl	5	100014048	100014049	5	100014050	8	2	RoutinImage501	2	3,8	50
+70019	Tiêu diêu đao pháp	Player_bl	5	100014051	100014052	7	0	0	1	RoutinImage05	1	1,3	20
+70020	Vô cực đao pháp	Player_bl	5	100014053	100014054	5	100014055	8	2	RoutinImage503	3	2,4	20
+70021	Phích lịch đao pháp	Player_bl	5	100014056	100014057	5	100014058	8	3	RoutinImage504	2	2,4	30
+70022	Tiêu diêu côn pháp	Player_st	6	100014059	100014060	6	0	0	1	RoutinImage601	3	1,4	30
+70023	Túy côn	Player_st	6	100014061	100014062	8	100014063	10	3	RoutinImage602	3	4,6	50
+70024	Đả cẩu côn pháp	Player_st	6	100014064	100014065	7	100014066	10	3	RoutinImage603	1	1,4	40
+70025	Mãn thiên lưu tinh	Player_hw	8	100014067	100014068	5	100014069	8	1	RoutinImage901	3	4,1	35
+70026	Phích lịch cửu thiên	Player_hw	8	100014070	100014071	7	0	0	2	RoutinImage902	2	3,6	40
+70027	Thái tổ trường quyền	Player_un	1	100014005	0	0	0	0	2	RoutinImage01	3	0,2	5
+70028	Phong hoa tuyết nguyệt khúc	Player_mu	9	100014132	100014133	5	100014134	8	1	RoutinImage10	3	4,0	30
+70029	Bi hoan ly hợp khúc	Player_mu	9	100014135	100014136	5	100014137	8	1	RoutinImage10	3	4,0	30
+70030	Tứ đại mỹ nhân khúc	Player_mu	9	100014138	100014139	5	100014140	8	2	RoutinImage10	3	4,0	30
+70031	Phòng huyền linh bi	Player_pen	7	100014141	100014142	7	0	0	2	RoutinImage07	3	4,5	40
+70032	Phật sơn vô ảnh cước	Player_leg	3	100014144	100014145	5	0	0	3	RoutinImage03	3	1,4	50
+70033	Phong thần thối pháp	Player_leg	3	100014147	100014148	6	100014149	9	1	RoutinImage03	3	2,2	50
+70034	Tiểu lý phi đao	Player_hw	8	100014150	100014151	9	0	0	1	RoutinImage910	3	1,0	50
+70035	Thiểu thương kiếm pháp	Player_un	2	100014032	0	0	0	0	2	RoutinImage02	3	1,5	30
+70036	Đệ tam sáo ám khí	Player_hw	8	100014072	100014073	5	100014074	8	3	RoutinImage901	3	0,0	30
+70037	Sinh tử phù	Player_hw	8	100014153	100014154	6	0	0	1	RoutinImage905	3	1,5	40
+70038	Tiêu diêu mê tung thối	Player_leg	3	100014156	100014157	6	0	0	1	RoutinImage911	3	1,4	50
+70039	Tiêu diêu chỉ	Player_un	2	100014159	100014160	6	0	0	1	RoutinImage908	3	1,0	40
+70040	Tiêu diêu phiến	Player_fan	7	100014162	100014163	6	0	0	1	RoutinImage906	3	1,4	40
+70041	Đào hoa phiến	Player_fan	7	100014165	100014166	6	0	0	2	RoutinImage907	3	1,2	40
+70042	Đường gia phách vương thương	Player_st	6	100014169	100014170	5	100014171	7	3	RoutinImage914	3	0,3	8
+70043	Thập nhị lộ trấn hồn thối	Player_leg	3	100014175	100014176	5	100014177	7	2	RoutinImage903	3	2,2	50
+70044	Cuồng phong tấn lôi công	Player_fan	7	100014178	100014179	5	100014180	7	2	RoutinImage909	3	1,5	40
+70045	Mặc bút tam tuyệt	Player_pen	7	100014181	100014182	5	100014183	7	2	RoutinImage913	3	2,6	40
+70046	Hồ gia đao pháp	Player_bl	5	100014184	100014185	5	100014186	7	3	RoutinImage502	3	2,4	40
+70047	A hầu vãn tiên đào	Player_un	2	100014187	100014188	5	100014189	7	3	RoutinImage904	3	0,4	100
+70048	Xú cấu công	Player_hw	8	100014220	100014221	10	0	0	3	RoutinImage940	3	2,7	20
+70049	Đao kiếm thập sát	Player_bs	14	100014190	100014191	5	100014192	8	1	RoutinImage917	3	1,4	40
+70050	U minh thập tam thức	Player_ss	14	100014193	100014194	5	100014195	8	3	RoutinImage935	3	2,3	40
+70051	Đao kiếm quy chân	Player_bs	14	100014196	100014197	5	100014198	8	3	RoutinImage916	3	0,4	50
+70052	Ích tà kiếm pháp	Player_sw	4	100014199	100014200	5	100014201	8	4	RoutinImage936	3	1,5	60
+70053	Bách túc ngô câu	Player_hh	14	100014202	100014203	5	100014204	8	3	RoutinImage922	3	1,3	40
+70054	Kim xà kiếm pháp	Player_sw	4	100014205	100014206	5	100014207	8	3	RoutinImage930	3	1,2	40
+70055	Cổ huyết thần đạn	Player_hw	8	100014208	100014209	5	100014210	8	3	RoutinImage938	3	4,2	40
+70056	Triền ti bát trảo	Player_un	2	100014211	100014212	5	100014213	8	3	RoutinImage918	3	4,2	50
+70057	Đường lang quyền	Player_un	1	100014214	100014215	5	100014216	8	3	RoutinImage934	3	1,4	50
+70058	Từ bi đao pháp	Player_bl	5	100014217	100014218	5	100014219	8	3	RoutinImage919	3	0,2	25
+70059	Dược vương thần châm	Player_hw	8	100014222	100014223	5	100014224	8	3	RoutinImage923	3	4,3	40
+70060	Đường môn đại tán thủ	Player_hw	8	100014072	100014073	5	100014074	8	3	RoutinImage09	3	2,7	40
+10244	Thiên quỷ trảo	TL_pupil	2	100130002	100130004	0	0	0	0	RoutinImage02	4	0,0	0
+10566	Tử mẫu thiên câu	Xiuluo_01	2	100131001	100131002	0	0	0	0	RoutinImage02	4	0,0	0
+10571	Đoạn hồn chưởng	Xiuluo_02	1	100132001	100132002	0	100132003	0	0	RoutinImage01	4	0,0	0
+10576	Tử mẫu thiên câu	Xiuluo_03	2	100133001	0	0	0	0	0	RoutinImage02	4	0,0	0
+10581	Huyền âm trảo công	Chouba	2	100136001	0	0	0	0	0	RoutinImage02	2	0,0	0
+10582	Huyền âm trảo công	Chouba	2	100136002	0	0	0	0	0	RoutinImage02	2	0,0	0
+10586	Long tượng bàn nhược chưởng	W_master	1	100139001	100139002	0	100139003	0	0	RoutinImage01	2	0,0	0
+10152	Phạm thiên hàng ma xử	W_pupil	6	100140001	100140002	0	0	0	0	RoutinImage13	2	0,0	0
+10153	Vô thượng kim cương xử	W_pupil	6	100140003	100140004	0	0	0	0	RoutinImage13	2	0,0	0
+10591	Giao sát đao	Etc_shark1	5	100141001	100141002	0	100141003	0	0	RoutinImage05	2	0,0	0
+10601	Giao sát thương	Etc_shark2	6	100142001	100142002	0	0	0	0	RoutinImage06	2	0,0	0
+10606	Trác nhân tình	Etc_eagle	11	100143001	100143002	0	100143003	0	0	RoutinImage02	2	0,0	0
+10611	Uy đao thuật	Etc_jp01	5	100144001	0	0	0	0	0	RoutinImage05	2	0,0	0
+10616	Uy đao thuật	Etc_jp02	5	100145001	100145002	0	0	0	0	RoutinImage05	2	0,0	0
+10132	Lực phách hoa sơn	Robber_horse	5	100224001	0	0	0	0	0	RoutinImage05	2	0,0	0
+10631	Băng vân đao pháp	KF_ruxiulin	5	100297001	100297002	0	100297003	0	0	RoutinImage05	2	0,0	0
+10632	Băng vân đao pháp	KF_ruxiulin	5	100297004	100297005	0	0	0	0	RoutinImage05	2	0,0	0
+10633	Kim phong đao pháp	KF_pupil	5	100296001	0	0	0	0	0	RoutinImage05	2	0,0	0
+10522	Cẩm y vệ công phu	Guanfu_killer	5	100284001	0	0	0	0	0	RoutinImage05	4	0,0	0
+10625	Đại lực kim cương quyền	SL_wdien	1	100298001	100298002	0	100298003	0	0	RoutinImage01	1	0,0	0
+10621	Thanh thành tuyệt kiếm	CC_yen	4	100299001	100299002	0	100299003	0	0	RoutinImage04	1	0,0	0
+10622	Thanh thành tuyệt kiếm	CC_yen	4	100299004	100299005	0	0	0	0	RoutinImage04	1	0,0	0
+10623	Thanh thành tuyệt kiếm	CC_yen	4	100299006	0	0	0	0	0	RoutinImage04	1	0,0	0
+10062	Huyền minh thất sát	Xyg_Xuanmin2	2	100311001	100311002	0	100311003	0	0	RoutinImage02	5	0,0	0
+10063	Huyền minh thất sát	Xyg_Xuanmin2	2	100311004	100311005	0	100311006	0	0	RoutinImage02	5	0,0	0
+10638	Đại hùng	Bear	11	100969001	100969002	0	100969003	0	0	RoutinImage02	3	0,0	0
+10639	Cự mãng	ETC_salamande	11	100970001	100970002	0	100970003	0	0	RoutinImage02	3	0,0	0
+10640	Âm dương đảo loạn nhận	Kungonly	4	100988001	100988002	0	0	0	0	RoutinImage04	3	0,0	0
+10651	Hấp tinh đại pháp	TL_sky	1	100989001	100989002	0	100989003	0	0	RoutinImage01	3	0,0	0
+10650	Đại tung dương thần chưởng	TL_dragon	1	100990001	100990002	0	100990003	0	0	RoutinImage01	1	0,0	0
+10649	Thiết chưởng	SL_Wujie	5	100991001	100991002	0	100991003	0	0	RoutinImage01	2	0,0	0
+10648	Hóa cốt miên chưởng	TL_mohu	1	100992001	100992002	0	0	0	0	RoutinImage01	5	0,0	0
+10647	Thất thương quyền	BG_sheng02	1	100993001	100993002	0	0	0	0	RoutinImage01	3	0,0	0
+10646	Lưỡng nghi kiếm pháp	WD_master	4	100994001	100994002	0	0	0	0	RoutinImage04	3	0,0	0
+10645	Ích tà kiếm pháp	Jiang_Tian	1	100995001	100995002	0	100995003	0	0	RoutinImage04	1	0,0	0
+10644	Đấu chuyển tinh di	TL_naluo	13	100996001	100996002	0	100996003	0	0	RoutinImage01	5	0,0	0
+10643	Thiên ma hấp tinh chưởng	Xyg_Xuanmin	11	100997001	100997002	0	100997003	0	0	RoutinImage01	5	0,0	0
+10642	Long tượng bàn nhược chưởng	W_master	1	100998001	100998002	0	100998003	0	0	RoutinImage01	2	0,0	0
+10641	Dã cầu quyền	Xyg_Xuan	1	100999001	100999002	0	0	0	0	RoutinImage01	4	0,0	0
+10652	Thánh đường tuyệt học	Etc_hsu1	1	100134001	100134002	0	100134003	0	0	RoutinImage01	4	0,0	0
+10653	Thánh đường tuyệt học	Etc_hsu2	4	100135001	100135002	0	100135003	0	0	RoutinImage04	4	0,0	0
+10626	Bát hầu hí hổ	Monkey	11	360032001	360032002	0	360032003	0	0	RoutinImage02	1	0,0	0
+10656	Thiên ý nhẫn thuật	Etc_jpassa	7	360068001	0	0	0	0	0	RoutinImage05	3	0,0	0
+10657	Hồ tộc đao pháp	Ho_soldier	5	360077001	0	0	0	0	0	RoutinImage05	3	0,0	0
+10658	Hán tộc thương pháp	Ly_soldier3	6	360078001	0	0	0	0	0	RoutinImage06	3	0,0	0
+10659	Địa bĩ đao pháp	Rogue01	5	360085001	0	0	0	0	0	RoutinImage05	3	0,0	0
+10660	Địa bĩ quyền pháp	Rogue02	1	360086001	0	0	0	0	0	RoutinImage01	3	0,0	0
+10661	Địa bĩ bổng pháp	Rogue03	6	360087001	0	0	0	0	0	RoutinImage06	3	0,0	0
+10662	Địa bĩ bổng pháp	Rogue04	6	360088001	0	0	0	0	0	RoutinImage06	3	0,0	0
+10663	Thiên ý nhẫn thuật	Etc_jpassa	7	360068001	360068002	0	0	0	0	RoutinImage05	3	0,0	0
+10664	Thiên ý nhẫn thuật	Etc_jpassa	7	360068001	360068002	0	360068003	0	0	RoutinImage05	3	0,0	0
+10670	Thất thập nhị lộ địa sát thối	killer_Boss	3	100422001	100422002	0	100422003	0	0	RoutinImage03	5	0,0	0
+10671	Thiên quỷ cước	TL_pupil	1	100130005	100130006	0	0	0	0	RoutinImage01	3	0,0	0
+10672	Cuồng phong lạc diệp kiếm	Guanfu_leaf	4	990023001	990023002	0	990023003	0	0	RoutinImage402	3	0,0	0
+10673	Thiên tuyết chỉ pháp	Guanfu_flower	2	990024001	990024002	0	990024003	0	0	RoutinImage203	3	0,0	0
+10674	Thâu tâm chỉ pháp	Guanfu_bird	2	990025001	990025002	0	990025003	0	0	RoutinImage201	3	0,0	0
+10675	Hư vô đao pháp	Guanfu_snow	5	990026001	990026002	0	990026003	0	0	RoutinImage502	3	0,0	0
+10676	Hỗn độn diêm la trảo	Guanfu_noface	2	990027001	990027002	0	990027003	0	0	RoutinImage202	3	0,0	0
+10677	Tàn dương thần chưởng	Guanfu_buddha	1	990028001	990028002	0	990028003	0	0	RoutinImage108	3	0,0	0
+10678	Cầu bại kiếm pháp	TL_tlpupil2	4	990029001	990029002	0	990029003	0	0	RoutinImage406	3	0,0	0
+10679	Phích lịch đao pháp	Pili_master	5	990030001	990030002	0	990030003	0	0	RoutinImage503	3	0,0	0
+10680	Phá quân thương pháp	Etc_general	6	100114001	100114002	0	100114003	0	0	RoutinImage06	3	0,0	0
+10681	Thần hỏa pháo	LY_BonBon	11	990035001	990035002	0	0	0	0	RoutinImage902	3	0,0	0
+10682	Tú xuân đao pháp	East_killer	5	360112001	360112002	0	0	0	0	RoutinImage05	4	0,0	0
+10683	Tú xuân đao pháp	Guanfu_killer	5	360113001	360113002	0	0	0	0	RoutinImage05	4	0,0	0
+10684	Triêu đình thương pháp	Ly_soldier3	6	990037001	990037002	0	0	0	0	RoutinImage05	4	0,0	0
+10685	Triêu đình đao pháp	Ly_soldier4	5	990038001	990038002	0	0	0	0	RoutinImage05	4	0,0	0
+10686	Đế vương thần công	Guanfu_emperor	11	990039001	990039002	0	990039003	0	0	RoutinImage05	4	0,0	0
+10687	Thiên la công	TL_tlpupil	1	100415001	100415002	0	0	0	0	RoutinImage02	4	0,0	0
+10688	Thủy hử anh hùng chưởng	Xyg_Fly	1	100015001	100015002	0	100015003	0	0	RoutinImage01	5	0,0	0
+10689	Mẫu kê công	chickenF	11	910011001	0	0	0	0	0	RoutinImage02	3	0,0	0
+10690	Công kê công	chickenM	11	910012001	910012002	0	910012003	0	0	RoutinImage02	3	0,0	0
+10691	Đại hùng	Bear	11	100969004	0	0	0	0	0	RoutinImage02	3	0,0	0
+10692	Tiểu hùng	BEAR_BABY	11	910003001	0	0	0	0	0	RoutinImage02	3	0,0	0
+10693	Ngạc ngư	CROCODILE	11	910004001	910004002	0	0	0	0	RoutinImage02	3	0,0	0
+10694	Hắc lang	WOLF_B	11	910005001	910005002	0	0	0	0	RoutinImage02	3	0,0	0
+10695	Tiểu hắc lang	WOLF_B_B	11	910006001	0	0	0	0	0	RoutinImage02	3	0,0	0
+10696	Bạch lang	WOLF_W	11	910007001	910007002	0	0	0	0	RoutinImage02	3	0,0	0
+10697	Tiểu bạch lang	WOLF_W_B	11	910008001	0	0	0	0	0	RoutinImage02	3	0,0	0
+10698	Tông lang	WOLF_Y	11	910009001	910009002	0	0	0	0	RoutinImage02	3	0,0	0
+10699	Tiểu tông lang	WOLF_Y_B	11	910009001	0	0	0	0	0	RoutinImage02	3	0,0	0
+10700	Lão ưng	Eagle	11	100143004	100143005	0	0	0	0	RoutinImage02	3	0,0	0
+10701	Cự mãng	ETC_salamande02	11	100970001	100970002	0	100970003	0	0	RoutinImage02	3	0,0	0
+10702	Độc xà	ETC_salamande	11	100970004	100970005	0	0	0	0	RoutinImage02	3	0,0	0
+10703	Tây vực dũng sĩ	Rogue03	6	505021001	505021002	0	0	0	0	RoutinImage06	3	0,0	0
+10704	Tây vực dũng sĩ	Rogue04	6	505021001	505021002	0	0	0	0	RoutinImage06	3	0,0	0
+10705	Ích tà kiếm pháp	Player_sw	4	990040001	990040002	0	990040003	0	0	RoutinImage936	3	0,0	0
+10706	Tôn tử binh pháp	East_king	1	100247001	100247002	0	100247003	0	0	RoutinImage01	3	0,0	0
+10707	Duyên nhai hành khất quyền	Gb_master	1	100102004	100102005	0	0	0	0	RoutinImage01	2	0,0	0
+10708	Đỗ khang kê thần công	Player_un	2	100014301	100014302	0	0	0	1	RoutinImage106	1	0,4	100
+10709	Vô địch cực hạn lưu	Player_un	1	100014303	100014304	0	100014305	0	1	RoutinImage01	1	1,5	100
+10710	Kê sư phó công	chickenM	11	910012004	910012005	0	910012006	0	0	RoutinImage02	1	0,0	0
+10711	Lão nhị giảo	CROCODILE	11	910004003	910004004	0	910004005	0	0	RoutinImage02	1	0,0	0
+10712	Đại lang vẫn	WOLF_W	11	910007001	910007002	0	0	0	0	RoutinImage02	1	0,0	0
+10713	Tiểu lang vẫn	WOLF_B_B	11	910006001	0	0	0	0	0	RoutinImage02	1	0,0	0
+10714	Bi hoan ly hợp khúc	Player_mu	9	990106001	990106002	0	990106003	0	0	RoutinImage10	3	0,0	0
+10715	Mãn thiên lưu tinh	Player_hw	8	990107001	990107002	0	990107003	0	0	RoutinImage901	3	0,0	0
+10716	Tiêu diêu đào hoa phiến	Player_fan	7	990108001	990108002	0	990108003	0	0	RoutinImage906	3	0,0	0
+10717	Mặc bút tam tuyệt	Player_pen	7	990109001	990109002	0	990109003	0	0	RoutinImage913	3	0,0	0
+10718	Dược vương thần châm	Player_hw	8	990110001	990110002	0	990110003	0	0	RoutinImage923	3	0,0	0
+10719	Phích lịch cửu thiên	Player_hw	8	990111001	990111002	0	990111003	0	0	RoutinImage902	3	0,0	0
+10720	A hầu vãn tiên đào	Player_un	2	990112001	990112002	0	990112003	0	0	RoutinImage904	3	0,0	0
+10721	Túy quyền	Player_un	1	990113001	990113002	0	990113003	0	0	RoutinImage104	3	0,0	0
+10722	Lôi hỏa lưu tinh châm	Player_hw	8	990114001	990114002	0	990114003	0	0	RoutinImage901	3	0,0	0
+10723	Thiên sơn lục dương chưởng	Player_un	1	990115001	990115002	0	990115003	0	0	RoutinImage103	3	0,0	0
+10724	Thiên sơn lục dương chưởng	Xyg_master	1	100017004	100017005	0	100017006	0	0	RoutinImage103	3	0,0	0
+80217	Bàn nhược quyền	Player_un	1	100048001	100048002	0	100048003	0	0	RoutinImage01	2	0,0	0
+80096	Băng hỏa liên chưởng	Player_un	1	100011001	100011002	0	100011003	0	0	RoutinImage02	3	0,0	0
+80561	Cầm sát thuật	Player_un	1	100106001	100106002	0	0	0	0	RoutinImage01	2	0,0	0
+80371	Đại lực kim cương chưởng	Player_un	1	100047001	100047002	0	100047003	0	0	RoutinImage01	1	0,0	0
+80685	Đại lực kim cương quyền	Player_un	1	100298001	100298002	0	100298003	0	0	RoutinImage01	1	0,0	0
+80062	Đại thiên tự tại chưởng	Player_un	1	100002001	100002002	0	100002003	0	0	RoutinImage01	3	0,0	0
+80710	Đại tung dương thần chưởng	Player_un	1	100990001	100990002	0	100990003	0	0	RoutinImage01	1	0,0	0
+80526	Hàng long thập bát chưởng	Player_un	1	100099001	100099002	0	100099003	0	0	RoutinImage01	1	0,0	0
+80705	Ích tà kiếm pháp	Player_un	1	100995001	100995002	0	100995003	0	0	RoutinImage04	1	0,0	0
+80646	Long tượng bàn nhược chưởng	Player_un	1	100139001	100139002	0	100139003	0	0	RoutinImage01	2	0,0	0
+80067	Phách tần cửu long phá	Player_un	1	100004001	100004002	0	100004003	0	0	RoutinImage01	1	0,0	0
+80737	Tàn dương thần chưởng	Player_un	1	990028001	990028002	0	990028003	0	0	RoutinImage108	3	0,0	0
+80326	Thái cực quyền	Player_un	1	100036001	100036002	0	100036003	0	0	RoutinImage01	3	0,0	0
+80467	Thiên cương quyền	Player_un	1	100074004	100074005	0	100074006	0	0	RoutinImage01	1	0,0	0
+80166	Thiên long bát bộ công	Player_un	1	100031001	100031002	0	0	0	0	RoutinImage01	3	0,0	0
+80784	Thiên sơn lục dương chưởng	Player_un	1	100017004	100017005	0	100017006	0	0	RoutinImage103	3	0,0	0
+80091	Tồi hồn bách độc chưởng	Player_un	1	100010001	100010002	0	100010003	0	0	RoutinImage01	5	0,0	0
+80356	Diệu đế chỉ	Player_un	2	100044001	100044002	0	100044003	0	0	RoutinImage02	1	0,0	0
+80736	Hỗn độn diêm la trảo	Player_un	2	990027001	990027002	0	990027003	0	0	RoutinImage202	3	0,0	0
+80123	Huyền minh thất sát	Player_un	2	100311004	100311005	0	100311006	0	0	RoutinImage02	5	0,0	0
+80086	Kim dực trảm	Player_un	2	100009001	100009002	0	100009003	0	0	RoutinImage02	1	0,0	0
+80576	Tàn hoa bảo giám	Player_un	2	100115001	100115002	0	100115003	0	0	RoutinImage02	5	0,0	0
+80734	Thâu tâm chỉ pháp	Player_un	2	990025001	990025002	0	990025003	0	0	RoutinImage201	3	0,0	0
+80733	Thiên tuyết chỉ pháp	Player_un	2	990024001	990024002	0	990024003	0	0	RoutinImage203	3	0,0	0
+80730	Thất thập nhị lộ địa sát thối	Player_leg	3	100422001	100422002	0	100422003	0	0	RoutinImage03	5	0,0	0
