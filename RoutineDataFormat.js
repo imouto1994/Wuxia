@@ -127,7 +127,33 @@ async function format(routineText) {
   return formattedLines.join("\n");
 }
 
-const FILTER_ARRAY = [];
+const FILTER_ARRAY = [
+  10157,
+  10036,
+  10501,
+  10311,
+  10625,
+  10002,
+  10650,
+  10466,
+  10645,
+  10586,
+  10007,
+  10677,
+  10266,
+  10407,
+  10106,
+  10724,
+  10031,
+  10296,
+  10676,
+  10063,
+  10026,
+  10516,
+  10674,
+  10673,
+  10670,
+];
 
 async function json(routineText) {
   const npcMap = await getNpcMap();
