@@ -369,5 +369,5 @@
 80516	Giáng Long Thập Bát Chưởng Quyển 5	Player_un	1	800014214	800115002	0	800115003	0	0	RoutinImage107	5	0,0	0
 80407	Giáng Long Thập Bát Chưởng Quyển 6	Player_un	1	800014016	800074006	0	800014152	0	0	RoutinImage107	1	0,0	0
 80109	Độc Cô Cửu Kiếm Quyển 1	Player_un	2	800034001	800034002	0	800034003	0	0	RoutinImage401	3	0,0	0
-80109	Độc Cô Cửu Kiếm Quyển 2	Player_un	2	800014032	800014033	0	890024003	0	0	RoutinImage401	3	0,0	0
-80109	Độc Cô Cửu Kiếm Quyển 3	Player_un	2	800118003	800299003	0	800093003	0	0	RoutinImage401	3	0,0	0
+80110	Độc Cô Cửu Kiếm Quyển 2	Player_un	2	800014032	800014033	0	890024002	0	0	RoutinImage401	3	0,0	0
+80111	Độc Cô Cửu Kiếm Quyển 3	Player_un	2	800118003	800299003	0	800093003	0	0	RoutinImage401	3	0,0	0
