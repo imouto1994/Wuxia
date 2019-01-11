@@ -153,6 +153,34 @@ const FILTER_ARRAY = [
   10674,
   10673,
   10670,
+  10678,
+  10118,
+  10672,
+  10563,
+  10646,
+  10446,
+  10556,
+  10548,
+  10276,
+  10621,
+  10396,
+  10531,
+  10109,
+  10041,
+  10176,
+  10631,
+  10251,
+  10171,
+  10675,
+  10368,
+  10256,
+  10649,
+  10411,
+  10011,
+  10306,
+  10680,
+  10152,
+  10153,
 ];
 const HIGHEST_ID = 70060;
 
@@ -207,6 +235,12 @@ async function text(routineText) {
         infos[2] = "Player_un";
       } else if (infos[3] === "3") {
         infos[2] = "Player_leg";
+      } else if (infos[3] === "4") {
+        infos[2] = "Player_sw";
+      } else if (infos[3] === "5") {
+        infos[2] = "Player_bl";
+      } else if (infos[3] === "6") {
+        infos[2] = "Player_st";
       }
       return infos.join("\t");
     });
