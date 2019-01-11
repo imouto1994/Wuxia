@@ -121,49 +121,49 @@
   {
     "m_iRoutineID": 80356,
     "m_strRoutineName": "Diệu đế chỉ",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80736,
     "m_strRoutineName": "Hỗn độn diêm la trảo",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80123,
     "m_strRoutineName": "Huyền minh thất sát",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80086,
     "m_strRoutineName": "Kim dực trảm",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80576,
     "m_strRoutineName": "Tàn hoa bảo giám",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80734,
     "m_strRoutineName": "Thâu tâm chỉ pháp",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80733,
     "m_strRoutineName": "Thiên tuyết chỉ pháp",
-    "m_iWearAmsType": 2,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
@@ -177,196 +177,196 @@
   {
     "m_iRoutineID": 80738,
     "m_strRoutineName": "Cầu bại kiếm pháp",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80178,
     "m_strRoutineName": "Cuồng phong khoái kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80732,
     "m_strRoutineName": "Cuồng phong lạc diệp kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80623,
     "m_strRoutineName": "Đoạt mệnh tam tiên kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80706,
     "m_strRoutineName": "Lưỡng nghi kiếm pháp",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80506,
     "m_strRoutineName": "Ngũ nhạc kiếm ý",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80608,
     "m_strRoutineName": "Như lai thần chưởng",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80616,
     "m_strRoutineName": "Quan thanh bách cảnh kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80336,
     "m_strRoutineName": "Thái cực kiếm pháp",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80681,
     "m_strRoutineName": "Thanh thành tuyệt kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80456,
     "m_strRoutineName": "Thiên môn thập tam kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80591,
     "m_strRoutineName": "Thiên sơn huyễn ảnh kiếm",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80169,
     "m_strRoutineName": "Vạn kiếm quy tông",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80101,
     "m_strRoutineName": "Vô danh kiếm pháp",
-    "m_iWearAmsType": 4,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80236,
     "m_strRoutineName": "Âm dương cực đao",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80691,
     "m_strRoutineName": "Băng vân đao pháp",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80311,
     "m_strRoutineName": "Bát quái đao pháp",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80231,
     "m_strRoutineName": "Cửu chuyển tuyệt mệnh đao",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80735,
     "m_strRoutineName": "Hư vô đao pháp",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80428,
     "m_strRoutineName": "Tâm hợp ý khí lưu",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80316,
     "m_strRoutineName": "Thiên thu đao pháp",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80709,
     "m_strRoutineName": "Thiết chưởng",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80471,
     "m_strRoutineName": "Trường hồng đao pháp",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80071,
     "m_strRoutineName": "Tu la vô tình đao",
-    "m_iWearAmsType": 5,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80366,
     "m_strRoutineName": "Bảo tương như lai côn",
-    "m_iWearAmsType": 6,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80740,
     "m_strRoutineName": "Phá quân thương pháp",
-    "m_iWearAmsType": 6,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80212,
     "m_strRoutineName": "Phạm thiên hàng ma xử",
-    "m_iWearAmsType": 6,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   },
   {
     "m_iRoutineID": 80213,
     "m_strRoutineName": "Vô thượng kim cương xử",
-    "m_iWearAmsType": 6,
+    "m_iWearAmsType": 1,
     "m_iAccumulationExp": 100000,
     "m_iLV": 10
   }

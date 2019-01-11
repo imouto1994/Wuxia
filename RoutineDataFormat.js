@@ -203,7 +203,7 @@ async function json(routineText) {
         return {
           m_iRoutineID: parseInt(infos[0], 10) + HIGHEST_ID,
           m_strRoutineName: infos[1],
-          m_iWearAmsType: parseInt(infos[3], 10),
+          m_iWearAmsType: parseInt(infos[3], 10) === 3 ? 3 : 1,
           m_iAccumulationExp: 100000,
           m_iLV: 10,
         };
