@@ -231,16 +231,11 @@ async function text(routineText) {
     .map(line => {
       const infos = line.split("\t");
       infos[0] = parseInt(infos[0], 10) + HIGHEST_ID;
-      if (infos[3] === "1" || infos[3] === "2") {
-        infos[2] = "Player_un";
-      } else if (infos[3] === "3") {
+      if (infos[3] === "3") {
         infos[2] = "Player_leg";
-      } else if (infos[3] === "4") {
-        infos[2] = "Player_sw";
-      } else if (infos[3] === "5") {
-        infos[2] = "Player_bl";
-      } else if (infos[3] === "6") {
-        infos[2] = "Player_st";
+      } else {
+        infos[2] = "Player_un";
+        infos[3] = 1;
       }
       return infos.join("\t");
     });

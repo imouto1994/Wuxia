@@ -378,39 +378,39 @@
 80166	Thiên long bát bộ công	Player_un	1	100031001	100031002	0	0	0	0	RoutinImage01	3	0,0	0
 80784	Thiên sơn lục dương chưởng	Player_un	1	100017004	100017005	0	100017006	0	0	RoutinImage103	3	0,0	0
 80091	Tồi hồn bách độc chưởng	Player_un	1	100010001	100010002	0	100010003	0	0	RoutinImage01	5	0,0	0
-80356	Diệu đế chỉ	Player_un	2	100044001	100044002	0	100044003	0	0	RoutinImage02	1	0,0	0
-80736	Hỗn độn diêm la trảo	Player_un	2	990027001	990027002	0	990027003	0	0	RoutinImage202	3	0,0	0
-80123	Huyền minh thất sát	Player_un	2	100311004	100311005	0	100311006	0	0	RoutinImage02	5	0,0	0
-80086	Kim dực trảm	Player_un	2	100009001	100009002	0	100009003	0	0	RoutinImage02	1	0,0	0
-80576	Tàn hoa bảo giám	Player_un	2	100115001	100115002	0	100115003	0	0	RoutinImage02	5	0,0	0
-80734	Thâu tâm chỉ pháp	Player_un	2	990025001	990025002	0	990025003	0	0	RoutinImage201	3	0,0	0
-80733	Thiên tuyết chỉ pháp	Player_un	2	990024001	990024002	0	990024003	0	0	RoutinImage203	3	0,0	0
+80356	Diệu đế chỉ	Player_un	1	100044001	100044002	0	100044003	0	0	RoutinImage02	1	0,0	0
+80736	Hỗn độn diêm la trảo	Player_un	1	990027001	990027002	0	990027003	0	0	RoutinImage202	3	0,0	0
+80123	Huyền minh thất sát	Player_un	1	100311004	100311005	0	100311006	0	0	RoutinImage02	5	0,0	0
+80086	Kim dực trảm	Player_un	1	100009001	100009002	0	100009003	0	0	RoutinImage02	1	0,0	0
+80576	Tàn hoa bảo giám	Player_un	1	100115001	100115002	0	100115003	0	0	RoutinImage02	5	0,0	0
+80734	Thâu tâm chỉ pháp	Player_un	1	990025001	990025002	0	990025003	0	0	RoutinImage201	3	0,0	0
+80733	Thiên tuyết chỉ pháp	Player_un	1	990024001	990024002	0	990024003	0	0	RoutinImage203	3	0,0	0
 80730	Thất thập nhị lộ địa sát thối	Player_leg	3	100422001	100422002	0	100422003	0	0	RoutinImage03	5	0,0	0
-80738	Cầu bại kiếm pháp	Player_sw	4	990029001	990029002	0	990029003	0	0	RoutinImage406	3	0,0	0
-80178	Cuồng phong khoái kiếm	Player_sw	4	100072001	100072002	0	100072003	0	0	RoutinImage04	3	0,0	0
-80732	Cuồng phong lạc diệp kiếm	Player_sw	4	990023001	990023002	0	990023003	0	0	RoutinImage402	3	0,0	0
-80623	Đoạt mệnh tam tiên kiếm	Player_sw	4	100245003	100245001	0	100245002	0	0	RoutinImage04	3	0,0	0
-80706	Lưỡng nghi kiếm pháp	Player_sw	4	100994001	100994002	0	0	0	0	RoutinImage04	3	0,0	0
-80506	Ngũ nhạc kiếm ý	Player_sw	4	100093001	100093002	0	100093003	0	0	RoutinImage04	3	0,0	0
-80608	Như lai thần chưởng	Player_sw	4	100121002	100121003	0	100121004	0	0	RoutinImage04	4	0,0	0
-80616	Quan thanh bách cảnh kiếm	Player_sw	4	100123001	100123002	0	100123003	0	0	RoutinImage04	3	0,0	0
-80336	Thái cực kiếm pháp	Player_sw	4	100038001	100038002	0	100038003	0	0	RoutinImage04	3	0,0	0
-80681	Thanh thành tuyệt kiếm	Player_sw	4	100299001	100299002	0	100299003	0	0	RoutinImage04	1	0,0	0
-80456	Thiên môn thập tam kiếm	Player_sw	4	100071001	100071002	0	100071003	0	0	RoutinImage04	1	0,0	0
-80591	Thiên sơn huyễn ảnh kiếm	Player_sw	4	100118001	100118002	0	100118003	0	0	RoutinImage04	5	0,0	0
-80169	Vạn kiếm quy tông	Player_sw	4	100034001	100034002	0	100034003	0	0	RoutinImage04	3	0,0	0
-80101	Vô danh kiếm pháp	Player_sw	4	100012001	100012002	0	100012003	0	0	RoutinImage04	3	0,0	0
-80236	Âm dương cực đao	Player_bl	5	100085001	100085002	0	100085003	0	0	RoutinImage05	3	0,0	0
-80691	Băng vân đao pháp	Player_bl	5	100297001	100297002	0	100297003	0	0	RoutinImage05	2	0,0	0
-80311	Bát quái đao pháp	Player_bl	5	100089001	100089002	0	100089003	0	0	RoutinImage05	3	0,0	0
-80231	Cửu chuyển tuyệt mệnh đao	Player_bl	5	100084001	100084002	0	100084003	0	0	RoutinImage05	1	0,0	0
-80735	Hư vô đao pháp	Player_bl	5	990026001	990026002	0	990026003	0	0	RoutinImage502	3	0,0	0
-80428	Tâm hợp ý khí lưu	Player_bl	5	100062001	100062002	0	100062003	0	0	RoutinImage05	4	4,6	30
-80316	Thiên thu đao pháp	Player_bl	5	100088001	100088002	0	100088003	0	0	RoutinImage05	3	0,0	0
-80709	Thiết chưởng	Player_bl	5	100991001	100991002	0	100991003	0	0	RoutinImage01	2	0,0	0
-80471	Trường hồng đao pháp	Player_bl	5	100077001	100077002	0	100077003	0	0	RoutinImage05	3	0,0	0
-80071	Tu la vô tình đao	Player_bl	5	100005001	100005002	0	100005003	0	0	RoutinImage05	1	0,0	0
-80366	Bảo tương như lai côn	Player_st	6	100046001	100046002	0	100046003	0	0	RoutinImage06	1	0,0	0
-80740	Phá quân thương pháp	Player_st	6	100114001	100114002	0	100114003	0	0	RoutinImage06	3	0,0	0
-80212	Phạm thiên hàng ma xử	Player_st	6	100140001	100140002	0	0	0	0	RoutinImage13	2	0,0	0
-80213	Vô thượng kim cương xử	Player_st	6	100140003	100140004	0	0	0	0	RoutinImage13	2	0,0	0
+80738	Cầu bại kiếm pháp	Player_un	1	990029001	990029002	0	990029003	0	0	RoutinImage406	3	0,0	0
+80178	Cuồng phong khoái kiếm	Player_un	1	100072001	100072002	0	100072003	0	0	RoutinImage04	3	0,0	0
+80732	Cuồng phong lạc diệp kiếm	Player_un	1	990023001	990023002	0	990023003	0	0	RoutinImage402	3	0,0	0
+80623	Đoạt mệnh tam tiên kiếm	Player_un	1	100245003	100245001	0	100245002	0	0	RoutinImage04	3	0,0	0
+80706	Lưỡng nghi kiếm pháp	Player_un	1	100994001	100994002	0	0	0	0	RoutinImage04	3	0,0	0
+80506	Ngũ nhạc kiếm ý	Player_un	1	100093001	100093002	0	100093003	0	0	RoutinImage04	3	0,0	0
+80608	Như lai thần chưởng	Player_un	1	100121002	100121003	0	100121004	0	0	RoutinImage04	4	0,0	0
+80616	Quan thanh bách cảnh kiếm	Player_un	1	100123001	100123002	0	100123003	0	0	RoutinImage04	3	0,0	0
+80336	Thái cực kiếm pháp	Player_un	1	100038001	100038002	0	100038003	0	0	RoutinImage04	3	0,0	0
+80681	Thanh thành tuyệt kiếm	Player_un	1	100299001	100299002	0	100299003	0	0	RoutinImage04	1	0,0	0
+80456	Thiên môn thập tam kiếm	Player_un	1	100071001	100071002	0	100071003	0	0	RoutinImage04	1	0,0	0
+80591	Thiên sơn huyễn ảnh kiếm	Player_un	1	100118001	100118002	0	100118003	0	0	RoutinImage04	5	0,0	0
+80169	Vạn kiếm quy tông	Player_un	1	100034001	100034002	0	100034003	0	0	RoutinImage04	3	0,0	0
+80101	Vô danh kiếm pháp	Player_un	1	100012001	100012002	0	100012003	0	0	RoutinImage04	3	0,0	0
+80236	Âm dương cực đao	Player_un	1	100085001	100085002	0	100085003	0	0	RoutinImage05	3	0,0	0
+80691	Băng vân đao pháp	Player_un	1	100297001	100297002	0	100297003	0	0	RoutinImage05	2	0,0	0
+80311	Bát quái đao pháp	Player_un	1	100089001	100089002	0	100089003	0	0	RoutinImage05	3	0,0	0
+80231	Cửu chuyển tuyệt mệnh đao	Player_un	1	100084001	100084002	0	100084003	0	0	RoutinImage05	1	0,0	0
+80735	Hư vô đao pháp	Player_un	1	990026001	990026002	0	990026003	0	0	RoutinImage502	3	0,0	0
+80428	Tâm hợp ý khí lưu	Player_un	1	100062001	100062002	0	100062003	0	0	RoutinImage05	4	4,6	30
+80316	Thiên thu đao pháp	Player_un	1	100088001	100088002	0	100088003	0	0	RoutinImage05	3	0,0	0
+80709	Thiết chưởng	Player_un	1	100991001	100991002	0	100991003	0	0	RoutinImage01	2	0,0	0
+80471	Trường hồng đao pháp	Player_un	1	100077001	100077002	0	100077003	0	0	RoutinImage05	3	0,0	0
+80071	Tu la vô tình đao	Player_un	1	100005001	100005002	0	100005003	0	0	RoutinImage05	1	0,0	0
+80366	Bảo tương như lai côn	Player_un	1	100046001	100046002	0	100046003	0	0	RoutinImage06	1	0,0	0
+80740	Phá quân thương pháp	Player_un	1	100114001	100114002	0	100114003	0	0	RoutinImage06	3	0,0	0
+80212	Phạm thiên hàng ma xử	Player_un	1	100140001	100140002	0	0	0	0	RoutinImage13	2	0,0	0
+80213	Vô thượng kim cương xử	Player_un	1	100140003	100140004	0	0	0	0	RoutinImage13	2	0,0	0
