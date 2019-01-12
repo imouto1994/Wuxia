@@ -495,5 +495,5 @@
 910051	Sơn Minh Cốc Ứng	Công kích kèm theo 1~500 Điểm thương tổn	c00017	3	1	0	0	0	0	0	0	0	1	500	0
 910052	Trượng Nhân Đan	Mỗi lượt khôi phục khí huyết 20%, nội lực 20%, giải trừ 2 hiệu ứng bất lợi, <br> Duy trì 3 lượt.	c00017	0	0	3	3	0	0	0	0	1	20	20	20	1	0	1	20	20	20	20	0	0	2	2	2
 800000	Tống Liên Kích	Tỷ lệ cực cao tiếp tục công kích một lần nữa	c00004	2	0	1	1	100	100	8	7	0	800001	0	0
-800001	Liên Kích	Có cơ hội có thể công kích một lần nữa	c00004	4	0	0	0	40	40	12	0	0	1	1	1
+800001	Liên Kích	Có cơ hội có thể công kích một lần nữa	c00004	4	0	0	0	50	50	12	0	0	1	1	1
 800002	Cửu Âm Vô Cực	Tấn công phát động thì lấy 5% lượng máu của mục tiêu thêm vào sát thương.	c00007	3	1	0	0	0	0	0	0	1	5	5	0
